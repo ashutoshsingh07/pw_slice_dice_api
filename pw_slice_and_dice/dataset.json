@@ -1,1 +1,26 @@
-
+[
+    {
+        "name": "John Doe",
+        "department": "Engineering",
+        "sub_department": "Backend",
+        "salary": 100000
+    },
+    {
+        "name": "Jane Doe",
+        "department": "Sales",
+        "sub_department": "Marketing",
+        "salary": 80000
+    },
+    {
+        "name": "Bob Smith",
+        "department": "Engineering",
+        "sub_department": "Frontend",
+        "salary": 90000
+    },
+    {
+        "name": "Alice Johnson",
+        "department": "Sales",
+        "sub_department": "Marketing",
+        "salary": 70000
+    }
+]
