@@ -6,8 +6,8 @@ A FastAPI microservice for calculating summary statistics on employee data.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/ashutoshsingh07/pw_slice_dice_api.git
+   cd pw_slice_dice_api
 
 
 2. **Create a virtual environment:**
