@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytest
+passlib
+python-jose
+bcrypt
