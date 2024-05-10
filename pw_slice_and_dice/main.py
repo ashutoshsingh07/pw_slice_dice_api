@@ -8,7 +8,6 @@ from models import Employee
 from security import authenticate_user, create_access_token, security
 from fastapi.security import HTTPBasicCredentials, OAuth2PasswordBearer
 
-
 app = FastAPI()
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
